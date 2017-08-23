@@ -1,0 +1,15 @@
+---
+title: "Lab 4 Report"
+author:  "student name here"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, message=FALSE, warning=FALSE, include=FALSE}
+library(hanoverbase)
+```
+
+**Use this section (replacing this line) to create your Lab 4 report.**
