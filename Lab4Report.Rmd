@@ -1,6 +1,7 @@
 ---
 title: "Lab 4 Report"
 author:  "student name here"
+date: "enter date here"
 output: html_document
 ---
 
