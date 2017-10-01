@@ -6,6 +6,7 @@ output: html_document
 ---
 
 ```{r setup, include=FALSE}
+#### WARNING: DO NOT CHANGE ANYTHING IN THIS CHUNK ####
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
